@@ -2,8 +2,7 @@ package edu.saintjoe.cs.ricardog.guessgamerhg;
 
 public class GameLauncher {
 	public static void main (String[] args) {
-		GuessGame game = new GuessGame();
+		GuessGameRHG game = new GuessGameRHG();
 		game.startGame();
 	}
-
 }
